@@ -14,8 +14,12 @@ Q3:How would selected STR expansions affect gene expression?
 
 Note: in this project STRs genotyping results, obtained by TCAG staff at Peter Gilgan Center for Research and Learning, Toronto, are utilized. However, due to confidentiality reasons and yet unpublished results, the identifiers of genotyped STR loci used in the project are ommited. Current project therefore serves for mere demonstrative purposes and allows to share potential predictive ability.
 
-The following files are used in the analysis and are available for download:
+The following files are available in the repository:
 
+Source code of preformed anaysis: 
+GTEX_exploration.py or GTEX_exploration.ipynb (jupyter notebook)
+
+Input files used in the analysis:
 1. 'brain_gene_normCountsNonZero_selected55.tsv' -- expression data across 13 brain tissues, normalized by relative log expression approach, where genes with zero expression across samples have been removed.
 2. 'GTEx_Analysis_v8_Annotations_SubjectPhenotypesDS.txt' -- publicaly available GTEx data with phenotypes of involved subjects: https://gtexportal.org/home/datasets
 3. 'GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt' -- publicaly available GTEx data with attributes of involved subjects: https://gtexportal.org/home/datasets
