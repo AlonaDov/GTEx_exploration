@@ -16,7 +16,7 @@ Note: in this project STRs genotyping results, obtained by TCAG staff at Peter G
 
 The following files are available in the repository:
 
-Source code of preformed anaysis: 
+Source code of performed anaysis: 
 GTEX_exploration.py or GTEX_exploration.ipynb (jupyter notebook)
 
 Input files used in the analysis:
