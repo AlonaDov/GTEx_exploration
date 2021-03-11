@@ -20,7 +20,7 @@ Source code of performed analysis:
 GTEX_exploration.py or GTEX_exploration.ipynb (jupyter notebook)
 
 Input files used in the analysis:
-1. 'brain_gene_normCountsNonZero_selected55.tsv' -- expression data across 13 brain tissues, normalized by relative log expression approach, where genes with zero expression across samples have been removed.
+1. 'brain_gene_normCountsNonZero_selected55.tsv' -- expression data across 13 brain tissues, normalized by relative log expression approach.
 2. 'GTEx_Analysis_v8_Annotations_SubjectPhenotypesDS.txt' -- publicly available GTEx data with phenotypes of involved subjects: https://gtexportal.org/home/datasets
 3. 'GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt' -- publicly available GTEx data with attributes of involved subjects: https://gtexportal.org/home/datasets
 4. 'STRs_genotypes.txt' -- STR genotypes across GTEx subjects; 15 selected STR loci are given with omitted identifiers.
